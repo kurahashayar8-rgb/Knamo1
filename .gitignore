@@ -1,0 +1,19 @@
+# User config — filled in after login (do not commit real tokens)
+config/api_keys.json
+
+# Local runtime data
+memory/long_term.json
+.jarvis_browser_profile/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
